@@ -45,7 +45,7 @@ async def on_message(message):
   msg = message.content.lower()
   for word in blacklist:
     if word in msg:
-      await message.reply('Don\'t fuckin swear <@' + str(message.author.id) + '>')
+      await message.reply('Don\'t swear <@' + str(message.author.id) + '>')
       # await message.delete()
       return
   return
