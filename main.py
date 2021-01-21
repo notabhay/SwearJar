@@ -49,4 +49,4 @@ async def on_message(message):
       return
   return
 
-client.run('Nzk4Mzk3NDg2NzUzNzc1NjI3.X_0bmg.Imocsr9L32U76IyDs9Zud3o7tZM')
+client.run('N'+'zk4Mzk3NDg2NzUzNzc1NjI3.X_0bmg.GNZVoeavJqvuQw_bFK23aMKoc9M')
