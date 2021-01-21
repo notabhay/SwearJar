@@ -13,6 +13,7 @@ async def on_message(message):
 
   if message.content.lower().startswith('.hello'):
     await message.reply('Hello! <@' + str(message.author.id) + '>')
+    await message.add_reaction(":monkaStab:")
 
   if message.content.lower().startswith('.add'):
   
