@@ -1,5 +1,4 @@
 import discord
-import os
 
 client = discord.Client()
 
@@ -50,4 +49,4 @@ async def on_message(message):
       return
   return
 
-client.run(os.getenv('TOKEN'))
+client.run('Nzk4Mzk3NDg2NzUzNzc1NjI3.X_0bmg.Imocsr9L32U76IyDs9Zud3o7tZM')
